@@ -26,7 +26,25 @@ or
 
 **$ git commit -m "commit inicial"**
 
-**$ git push origin master**
+**git push origin master**
 
 **https://github.com/WoMakersCode/git-e-github/blob/master/ciclo-de-vida-basico/comandos-mais-utilizados.md#git-status**
+
+
+## How can I create a new branch?
+
+**git checkout -b modulo 3**
+
+## How can I switch the branch?
+
+**git checkout nomedabranch**
+
+
+# How to marge two brachn?
+
+git checkout master
+git pull
+git merge modulo-3
+
+
 
