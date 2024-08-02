@@ -47,4 +47,9 @@ git pull
 git merge modulo-3
 
 
+# How to change the github 
+
+git remote -v
+git remote remove origin
+git clone https://github.com/squad-hedy-lamar/Desafio2-bootcamp-back-end-python-e-django.git
 
